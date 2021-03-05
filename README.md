@@ -1,4 +1,4 @@
-# quiz_adda
+# quizX
 
 A new Flutter application.
 
