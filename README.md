@@ -1,6 +1,17 @@
-# quizX
+# QuizX
 
-A new Flutter application.
+QuizX is an android application which allows users to play a quiz, and compare the scores with their friends on the leaderboard.
+
+# Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/20441828/110202459-d0e42300-7e8e-11eb-8be6-c2b6cf89ad6e.jpg" width=200 height=400></td>
+    <td><img src="https://user-images.githubusercontent.com/20441828/110202697-6f24b880-7e90-11eb-9a33-c2e620a4f9db.jpg" width=200 height=400></td>
+    <td><img src="https://user-images.githubusercontent.com/20441828/110202732-a7c49200-7e90-11eb-84ec-52ae1b61c58c.jpg" width=200 height=400></td>
+    <td><img src="https://user-images.githubusercontent.com/20441828/110202760-d2aee600-7e90-11eb-968e-1408d1741acf.jpg" width=200 height=400></td>
+  </tr>
+ </table>
 
 ## Getting Started
 
